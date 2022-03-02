@@ -24,6 +24,10 @@ No terminal, digite:
 git clone https://github.com/lu1zf/ignite-shopping-cart
 ```
 
+Depois disso, navegue até a pasta do projeto:
+```
+cd ignite-shopping-cart
+```
 ### Depois, vamos instalar as dependências:
 Para isso é necessário algum gerenciador de dependências como NPM ou Yarn.
 
